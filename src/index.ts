@@ -1,0 +1,1 @@
+console.log('For some reason is so fucking difficult to setup typescript man... gooddamm..')
